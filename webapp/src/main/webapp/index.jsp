@@ -5,8 +5,9 @@
 <br>
 <br>
 <body bgcolor="orange">
-<center><h1><font size=200><p style="color:blue;">AIRBUS</font></h1></center>
+<center><h1><font size=150><p style="color:blue;">AIRBUS</font></h1></center>
 <center><h1 font size=50><u>Ready to Fly with AIRBUS</u></h1></center>
+<br>
 <br>
 <br>
 <br>
